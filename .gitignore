@@ -1,3 +1,9 @@
 .env
-envm
+env/
 media/uploaded_images
+
+__pycache__
+*.pyc
+
+migrations/
+!migrations/__init__.py
